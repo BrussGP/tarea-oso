@@ -1,0 +1,175 @@
+h1{
+    text-align: center;
+}
+#cabeza{  
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border-radius: 150px;
+    background-color: rgb(83, 4, 4);
+    position: relative;
+    top: 30px;
+}
+#orejaizquierda{  
+    width: 80px;
+    height: 80px;
+    background-color: rgb(83, 4, 4);
+    position: relative;
+    left:-40px;
+    border-radius: 40px;
+}
+#orejainternaizquierda{
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(226, 151, 59);
+    position: absolute;
+    left:10px;
+    top: 10px;
+    border-radius: 40px;
+}
+#orejaderecha{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(83, 4, 4);
+    position: absolute;
+    right: -40px;
+    top: -2px;
+    border-radius: 40px;
+}
+#orejainternaderecha{
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(226, 151, 59);
+    position: absolute;
+    left:15px;
+    top: 10px;
+    border-radius: 40px;
+}
+#ojoizquierda{
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    position: relative;
+    left:40px;
+    border-radius: 50px;
+}
+#irisizquierdo{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left:15px;
+    top: 15px;
+    border-radius: 50px;
+}
+#ojoderecha{
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    position: absolute;
+    right: 40px;
+    top: 80px;
+    border-radius: 50px;
+}
+#irisderecho{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left:15px;
+    top: 15px;
+    border-radius: 50px;
+}
+#osico{
+    border: 3px solid black;
+    width: 70px;
+    height: 70px;
+    background-color: rgb(226, 151, 59);
+    position: absolute;
+    left: 90px;
+    top: 145px;
+    border-radius: 50px;
+}
+#nariz{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 30px;
+    top: 15px;
+    border-radius: 50px;
+}
+#boca{
+    width: 50px;
+    height: 20px;
+    border: 3px solid black;
+    border-top: none;
+    border-radius: 0 0 70px 70px;
+    position: absolute;
+    bottom: 10px;
+    left: 8px;
+}
+#cuerpo{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border-radius: 200px;
+    background-color: rgb(83, 4, 4);
+}
+#brazoiquierdo{
+    width: 80px;
+    height: 210px;
+    margin: auto;
+    position: relative;
+    background-color: rgb(83, 4, 4);
+    border-radius: 50px;
+    left: -203px;
+    bottom: 200px;
+    transform: rotate(35deg);
+}
+#brazoderecho{
+    width: 80px;
+    height: 210px;
+    margin: auto;
+    position: relative;
+    background-color: rgb(83, 4, 4);
+    border-radius: 50px;
+    right: -200px;
+    bottom: 415px;
+    transform: rotate(-35deg);
+}
+#piernaizquierda{
+    width: 80px;
+    height: 150px;
+    margin: auto;
+    position: relative;
+    background-color: rgb(83, 4, 4);
+    border-radius: 50px;
+    left: -90px;
+    bottom: 390px;
+}
+#piernaderecha{
+    width: 80px;
+    height: 150px;
+    margin: auto;
+    position: relative;
+    background-color: rgb(83, 4, 4);
+    border-radius: 50px;
+    right: -90px;
+    bottom: 540px;
+}
+#abdomen{
+    border: 5px solid black;
+    width: 250px;
+    height: 300px;
+    margin: auto;
+    border-radius: 200px;
+    background-color: rgb(226, 151, 59);
+    position: relative;
+    top: 50px;
+
+}
